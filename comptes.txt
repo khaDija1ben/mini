@@ -1,0 +1,3 @@
+{"mot_de_passe": "1234", "nom": "BEN-DANANE", "prenom": "KHADIJA", "solde": 5000}
+{"mot_de_passe": "2003", "nom": "TALGHMET", "prenom": "ZINEB", "solde": 3000}
+{"mot_de_passe": "2000", "nom": "ELBRIKI", "prenom": "FATIMA", "solde": 10000}
